@@ -1,0 +1,22 @@
+  div.shadowbox {  /* Ce qui va rajouter le tableau autour du CV */
+    text-align: left;
+	  width: 65em;
+	  border: 5px solid #333;
+	  padding: 16px 24px;
+    
+  }
+
+
+  hr.test {
+    border: none;
+    border-top: 1px double #333; /* Ce qui rajoute les option de met barre */
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 3px;
+  }
+
+  span.test {
+    text-align: center;
+
+}
