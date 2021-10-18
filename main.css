@@ -23,3 +23,8 @@
 p {
   text-align: center;
 }
+
+div.align {
+  text-align: left;
+  padding-left: 50px;
+}
